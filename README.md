@@ -1,16 +1,28 @@
-## Hi there 👋
+# Yo, I'm Asyadil Ali
 
-<!--
-**asyadil/asyadil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe in **Allah**
+Currently learning **Python & AI**  
+My dream is to create **AGI (Artificial General Intelligence)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- I love exploring technology and building projects  
+- Always learning and improving myself  
+- Interested in Artificial Intelligence, programming, and creative technology  
+
+---
+
+## Skills
+- Programming: Python 
+- Tools: Git, VS Code  
+- Currently exploring: Machine Learning and MORE!!
+
+---
+
+## Connect with me
+[Instagram](https://instagram.com/as.yadil)  
+
+---
+
+Don't feel free to check out my repositories and projects.
