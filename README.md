@@ -1,8 +1,9 @@
 # Yo, I'm Asyadil Ali
 
-I believe in **Allah**\n
-Currently learning **Python & AI**  
-My dream is to create **AGI (Artificial General Intelligence)**  
+- I believe in **Allah**
+
+- Currently learning **Python & AI**  
+  My dream is to create **AGI (Artificial General Intelligence)**  
 
 ---
 
