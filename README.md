@@ -1,6 +1,6 @@
 # Yo, I'm Asyadil Ali
 
-I believe in **Allah**
+I believe in **Allah**\n
 Currently learning **Python & AI**  
 My dream is to create **AGI (Artificial General Intelligence)**  
 
