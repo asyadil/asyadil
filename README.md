@@ -17,6 +17,8 @@ My dream is to create **AGI (Artificial General Intelligence)**
 
 [Instagram](https://instagram.com/as.yadil)
 
+
+
 ---
 
 Don't feel free to chek my projects!
