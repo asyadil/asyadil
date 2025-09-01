@@ -4,21 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Dreaming+to+create+AGI" alt="Typing SVG" />
 </p>
 
-
-
 # Yo, I'm Asyadil Ali
 
 I believe in **Allah**
 
 Currently learning **Python & AI**  
 My dream is to create **AGI (Artificial General Intelligence)**
-
----
-
-## About Me
-- I love exploring technology and building projects  
-- Always learning and improving myself  
-- Interested in Artificial Intelligence, programming, and creative technology
 
 ---
 
