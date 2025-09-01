@@ -1,8 +1,9 @@
 
-<!-- Typing SVG (ganti teks sesuai selera) -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&lines=Dreaming+to+create+AGI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=000000&center=true&vCenter=true&lines=Dreaming+to+create+AGI" alt="Typing SVG" />
 </p>
+
 
 
 # Yo, I'm Asyadil Ali
