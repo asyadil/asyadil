@@ -8,7 +8,7 @@
 
 I believe in **Allah**
 
-Currios at **'ALL ABOUT AI'** 
+Currios at **All about Artificial Intellegence** 
 
 
 
