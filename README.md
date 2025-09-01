@@ -1,11 +1,7 @@
-<!-- Banner (hapus bagian ini jika tidak ada banner.png) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asyadil/asyadil/main/banner.png" alt="Banner" width="100%"/>
-</p>
 
 <!-- Typing SVG (ganti teks sesuai selera) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&lines=Yo,+I'm+Asyadil+Ali;Python+%26+AI+Learner;Dreaming+to+create+AGI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&lines=Dreaming+to+create+AGI" alt="Typing SVG" />
 </p>
 
 
