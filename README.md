@@ -8,7 +8,7 @@
 
 I believe in **Allah**
 
-Currently learning **Python & AI**  
+Currios at **'ALL ABOUT AI'** 
 My dream is to create **AGI (Artificial General Intelligence)**
 
 ---
