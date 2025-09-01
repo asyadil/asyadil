@@ -11,11 +11,11 @@ I believe in **Allah**
 Currios at **'ALL ABOUT AI'** 
 My dream is to create **AGI (Artificial General Intelligence)**
 
----
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
