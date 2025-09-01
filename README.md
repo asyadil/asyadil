@@ -12,6 +12,7 @@ Currios at **'ALL ABOUT AI'**
 My dream is to create **AGI (Artificial General Intelligence)**
 
 **Send some massege to me!:**
+
 [Instagram](https://instagram.com/as.yadil)
 
 ---
