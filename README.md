@@ -11,6 +11,12 @@ I believe in **Allah**
 Currios at **'ALL ABOUT AI'** 
 My dream is to create **AGI (Artificial General Intelligence)**
 
+## Send some massege to me!
+[Instagram](https://instagram.com/as.yadil)
+
+---
+
+Don't feel free to chek my projects!
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,10 +24,3 @@ My dream is to create **AGI (Artificial General Intelligence)**
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## Connect with me
-[Instagram](https://instagram.com/as.yadil)
-
----
-
-Don't feel free to chek my projects!
