@@ -5,8 +5,9 @@
 
 <!-- Typing SVG (ganti teks sesuai selera) -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&lines=Yo,+I'm+Asyadil+Ali;Python+%26+AI+Learner;Dreaming+to+create+AGI)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&lines=Yo,+I'm+Asyadil+Ali;Python+%26+AI+Learner;Dreaming+to+create+AGI" alt="Typing SVG" />
 </p>
+
 
 # Yo, I'm Asyadil Ali
 
