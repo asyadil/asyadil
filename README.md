@@ -6,15 +6,14 @@
 
 # Yo, I'm Asyadil Ali
 
-I believe in **Allah**
+• I believe in **Allah**
 
-Currios at **All about Artificial Intellegence** 
+• Currios at **All about Artificial   Intellegence** 
 
 
 
-**Send some massege to me:**
-
-[My Instagram account](https://instagram.com/as.yadil)
+• **Send some massege to me:**
+[Instagram](https://instagramm.com/as.yadil)
 
 
 
