@@ -1,4 +1,5 @@
 
+
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Dreaming+to+create+AGI!" alt="Typing SVG" />
