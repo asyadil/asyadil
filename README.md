@@ -2,19 +2,19 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Dreaming+to+create+AGI!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Rewriting+the+code+..." alt="Typing SVG" />
 </p>
 
 # Yo, I'm Asyadil Ali
 
 • I believe in **Allah**
 
-• Currios at **All about Artificial   Intellegence** 
+• Currently learning, because iam junior dev
 
 
 
 • **Send some massege to me:**
-[Instagram](https://instagramm.com/as.yadil)
+[DM-IG](https://instagramm.com/as.yadil)
 
 
 
@@ -23,8 +23,7 @@
 Don't feel free to chek my projects!
 
 ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
+![Python](https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=blue)
 ---
