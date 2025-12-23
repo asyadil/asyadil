@@ -26,7 +26,7 @@ Don't feel free to chek my projects!
 <btn>
   <a
     target="_blank"
-    href="https://asydila.developer.li">
+    href="https://asyadila.developer.li">
     Chek my portofolio web!
   </a>
 </bnt>
