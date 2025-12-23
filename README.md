@@ -9,17 +9,17 @@
 
 • I believe in **Allah**
 
-• Currently learning, because iam junior dev
-
+• Currently learning, because i’m slightly dumb
 
 
 • **Send some massege to me:**
 <br />
 <br />[![ Drop a 'Hello' on my dm ](https://img.shields.io/badge/Send%20a%20'Hello'-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/direct/new/?username=as.yadil)
 <br />
-• **Send some massege to me:**
 <br />
-<br />[![ Iam online! ](https://upload.wikimedia.org/wikipedia/commons/8/80/Globe_icon.svg)](http://asyadila.developer.li)
+• **My portofolio web:**
+<br />
+<br />[![ I'm online! ](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](http://asyadila.developer.li)
 
 
 ---
