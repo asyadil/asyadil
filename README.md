@@ -14,9 +14,11 @@
 
 
 • **Send some massege to me:**
-<a target="_blank" href="https://instagram.com/as.yadil">[ Send hello ]</a>
-
-
+<a 
+  target="_blank"
+  href="[https://instagram.com/as.yadil](https://www.instagram.com/direct/new/?username=as.yadil)">
+  [ Drop a 'hello' in my DM ]
+</a>
 
 ---
 
