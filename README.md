@@ -14,7 +14,7 @@
 
 
 • **Send some massege to me:**
-<a target="_blank" href="https://instagram.com/as.yadil">[DM-IG]</a>
+<a target="_blank" href="https://instagram.com/as.yadil">[ Send hello ]</a>
 
 
 
@@ -27,6 +27,6 @@ Don't feel free to chek my projects!
   <a
     target="_blank"
     href="https://asyadila.developer.li">
-    Chek my portofolio web!
+    [ Chek my portofolio web ]
   </a>
 </bnt>
