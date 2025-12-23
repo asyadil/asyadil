@@ -23,8 +23,5 @@
 Don't feel free to chek my projects!
 
 ---
-Lenguages :
-![Python](https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=blue)
+<img scr="https://i.pximg.net/img-master/img/2023/12/11/02/00/06/114126974_p0_master1200.jpg">
 ---
