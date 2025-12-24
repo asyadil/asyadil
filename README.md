@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Rewriting+the+code+..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Rewriting+the+code+..." alt="Typing SVG" />
 </p>
 
 # Yo, I'm Asyadil Ali
